@@ -21,6 +21,7 @@ func main() {
 	ii = 10
 
 	fmt.Println(ii)
+	fmt.Println("__")
 
 	fmt.Println("I am debugging now")
 	doPanic(5)
